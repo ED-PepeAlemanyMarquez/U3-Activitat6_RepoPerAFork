@@ -22,6 +22,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 * Modifica el README.md on et corresponga, on descrius la tasca que has fet.
 * Fes un *pull-request* per a demanar al propietari del repositori (que és el professor) que revise la teua feina i que incorpore a la rama principal els canvis de la teua rama.
 
+### ------------------- MODIFICACIONS REALITZADES ----------------------------------
+* He afegit el mètode `AlumneFilaxxxPCxxx()` que imprimeix el meu nom i una felicitació per a l'Any Nou.
 
 
 ### ------------------- FI INSTRUCCIONS -------------------------------------------

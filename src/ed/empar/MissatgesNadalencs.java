@@ -110,7 +110,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC3() {
-
+		System.out.println("Hola, sóc Pepe. Feliç Any Nou i que es compleixin tots els teus desitjos!");
 	}
 
 	private static void AlumneFila1PC4() {
